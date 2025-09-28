@@ -32,13 +32,7 @@ Visualization: Matplotlib, Seaborn, WordCloud
 
 Automation & Reporting: FPDF, Prefect (optional for orchestration)
 
-📂 Project Structure
-AI-Crypto-Market-Analyzer/
-│── crypto_analyzer.ipynb    # Main Colab notebook
-│── btc_prices.csv           # BTC price dataset (generated)
-│── crypto.db                # SQLite database
-│── AI_Crypto_Report.pdf     # Final generated report
-│── README.md                # Project documentation
+
 
 🚀 How to Run on Google Colab
 
